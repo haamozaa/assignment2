@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "524530347536",
+    "project_id": "assignment2-25c00",
+    "storage_bucket": "assignment2-25c00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:524530347536:android:b96f2354f0dc2a0db3e495",
+        "android_client_info": {
+          "package_name": "com.example.assign2clouding"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "524530347536-jujieupj4dnoeje2ebectvmvk4ch05th.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHyx84t2jZdHTXX6yGjnaMSdxbfBLrNrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "524530347536-jujieupj4dnoeje2ebectvmvk4ch05th.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
